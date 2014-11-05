@@ -1,2 +1,6 @@
 [include]
   path = lg.gitconfig
+  path = pop.gitconfig
+  path = s.gitconfig
+  path = co.gitconfig
+  path = cm.gitconfig
