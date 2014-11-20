@@ -1,5 +1,2 @@
 [alias]
-
-  #lg = log --color --graph --pretty=format:'%Cred%h%Creset %Cblue%an%Creset %s'
- 
   lg = log --graph --pretty=format:'%Cred%h%Creset %C(yellow)%d%Creset %Cgreen%cd%Creset %C(bold blue)%an%Creset %s' --date=short
