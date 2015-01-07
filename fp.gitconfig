@@ -1,0 +1,2 @@
+[alias]
+    fp = !git fetch && git pull
