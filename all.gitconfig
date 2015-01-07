@@ -4,3 +4,4 @@
   path = s.gitconfig
   path = co.gitconfig
   path = cm.gitconfig
+  path = conflicts.gitconfig
