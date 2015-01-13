@@ -6,6 +6,7 @@ __Under development.__
 References:
 -----------
 
+- https://www.atlassian.com/git/tutorials
 - https://github.com/Ajedi32/git_aliases 
 - http://gitimmersion.com/lab_11.html 
 - https://gist.github.com/mwhite/6887990 
