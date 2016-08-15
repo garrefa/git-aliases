@@ -1,7 +1,11 @@
 Repository of useful git aliases.
 =================================
 
-__Under development.__
+Just add this lines to your ~/.gitconfig.
+Considering you have clone the repo in your user home.
+
+[include]
+  path = ~/git-aliases/all.gitconfig
 
 References:
 -----------
