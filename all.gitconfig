@@ -6,6 +6,7 @@
   path = s.gitconfig
   path = co.gitconfig
   path = cm.gitconfig
+  path = scm.gitconfig
   path = conflicts.gitconfig
   path = p.gitconfig
   path = uc.gitconfig
