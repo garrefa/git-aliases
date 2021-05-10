@@ -1,0 +1,4 @@
+[alias]
+    zero = !git restore --staged . && \
+    git clean -df && \
+    git checkout .
