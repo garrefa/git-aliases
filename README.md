@@ -1,6 +1,7 @@
 Repository of useful git aliases.
 =================================
 
+Clone this repository on your $HOME
 Just add this lines to your ~/.gitconfig.
 Considering you have clone the repo in your user home.
 
